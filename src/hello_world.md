@@ -1,0 +1,1 @@
+this folder is just for working files, rust-analyzer was being weird with files outside the cargo src project dir
