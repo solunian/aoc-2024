@@ -10,3 +10,7 @@ ways of resolving them. unwrap and unwrap_or and augh. the flip.
 ## day04
 ahhhhhhhhhhh my part 1 was so terrible. idk if complete search is the most efficient.
 coding the conditionals was annoying, especially with weird rust stuff.
+
+## day05
+macros are quite something. rust has no varargs or overloading which is interesting.
+borrowing is also kinda interesting when your code works.
