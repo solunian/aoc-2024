@@ -22,3 +22,7 @@ then i used a HashSet with all the path configs which was much faster with O(n^2
 idk if theres a better way of doing it.
 bryan was pretty smart; just count if the traveled count goes greater than the number of cells available.
 rust breaks my brain. i might be dumb.
+
+## day07
+used the crate itertools. worked pretty well. should also practice using bitshiting and bitwise stuff 
+for permutations/subsets and all that, but that's for another time. im lazy rn. also generating with recursion/iteration.
