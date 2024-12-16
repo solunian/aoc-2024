@@ -26,3 +26,6 @@ rust breaks my brain. i might be dumb.
 ## day07
 used the crate itertools. worked pretty well. should also practice using bitshiting and bitwise stuff 
 for permutations/subsets and all that, but that's for another time. im lazy rn. also generating with recursion/iteration.
+
+## day09
+was being a little dum dum for day09
